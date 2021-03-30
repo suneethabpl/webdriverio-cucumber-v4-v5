@@ -1,4 +1,9 @@
-
+// describe('my awesome website', () => {
+//     it('should do some assertions', () => {
+//         browser.url('https://webdriver.io')
+//         expect(browser).toHaveTitle('WebdriverIO · Next-gen browser and mobile automation test framework for Node.js | WebdriverIO')
+//     })
+// })
 
 const assert = require('assert');
 const { Given, When, Then } = require('cucumber');
